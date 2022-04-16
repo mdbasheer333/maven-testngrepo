@@ -4,3 +4,4 @@
 // https://maven.apache.org/settings.html
 
 //dummy https://maven.apache.org/settings.html
+//dummy by team mate bash 1 https://maven.apache.org/settings.html
