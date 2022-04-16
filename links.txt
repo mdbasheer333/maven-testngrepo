@@ -1,0 +1,4 @@
+// https://maven.apache.org/surefire/maven-surefire-plugin/examples/testng.html
+// https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html
+// https://maven.apache.org/surefire/maven-surefire-plugin/test-mojo.html#reportsDirectory
+// https://maven.apache.org/settings.html
