@@ -7,3 +7,5 @@
 //dummy by team mate bash 1 https://maven.apache.org/settings.html
 
 // added dummy line
+
+// added another dummy line by master
